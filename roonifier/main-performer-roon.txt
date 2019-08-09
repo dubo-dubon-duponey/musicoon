@@ -1,0 +1,12 @@
+Primary Artist
+Performer
+Member of Attributed Artist
+Member of Featured Artist
+Group Member
+Main Personnel
+Member of Main Personnel
+Associate Musician
+Collaboration
+Guest Artist
+Featured Artist
+Soloist

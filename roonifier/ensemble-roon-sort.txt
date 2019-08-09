@@ -1,0 +1,33 @@
+
+arp string ensemble
+band
+bar band
+big band
+boy group
+brass band
+brass ensemble
+chamber ensemble
+electronic ensemble
+ensemble
+experimental big band
+folk band
+group
+harmony vocal group
+horn ensemble
+jazz band
+mariachi orchestra
+modern big band
+orchestra
+orchestra (chamber)
+orchestra (dance)
+orchestra vibes
+percussion ensemble
+pop band
+renaissance band
+rock band
+small group
+string ensemble
+string quartet
+vocal ensemble
+vocal group
+wind ensemble (winds)
